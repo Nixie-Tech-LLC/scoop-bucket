@@ -4,16 +4,10 @@
   "homepage": "https://github.com/Nixie-Tech-LLC/mimir-cli",
   "license": "MIT",
   "architecture": {
-    "64bit": {
-      "url": "https://github.com/Nixie-Tech-LLC/mimir-cli/releases/download/v0.1.1/mimir_0.1.1_windows_amd64.zip",
-      "hash": "",
-      "bin": "mimir.exe"
-    }
+    "64bit": { "url": "https://github.com/Nixie-Tech-LLC/mimir-cli/releases/download/v0.1.1/mimir_0.1.1_windows_amd64.zip", "hash": "28566048756a70d41badc00ca7922af3d06a8e97dde20c9dc0970f7fb7c52e2f", "bin": "mimir.exe" }
   },
   "checkver": "github",
   "autoupdate": {
-    "architecture": {
-      "64bit": { "url": "https://github.com/Nixie-Tech-LLC/mimir-cli/releases/download/v$version/mimir_$version_windows_amd64.zip" }
-    }
+    "architecture": { "64bit": { "url": "https://github.com/Nixie-Tech-LLC/mimir-cli/releases/download/v$version/mimir_$version_windows_amd64.zip" } }
   }
 }
