@@ -1,12 +1,12 @@
 {
-  "version": "0.4.5",
+  "version": "0.4.6",
   "description": "A local-first, peer-to-peer, end-to-end-encrypted issue tracker built on iroh + Loro CRDTs.",
   "homepage": "https://github.com/Nixie-Tech-LLC/lait",
   "license": "MIT OR Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Nixie-Tech-LLC/lait/releases/download/v0.4.5/lait-x86_64-pc-windows-msvc.zip",
-      "hash": "a8ebda9f3971fbe330279ce93d41ccbf5c5fdd38e093f9a7ee5be7b1632d2062",
+      "url": "https://github.com/Nixie-Tech-LLC/lait/releases/download/v0.4.6/lait-x86_64-pc-windows-msvc.zip",
+      "hash": "7bc902ad81029c3548be8575df50df96eed874d8a4712e91d73e6f6d58c7fee2",
       "bin": "lait.exe"
     }
   },
