@@ -1,9 +1,9 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "mimir platform CLI — gcloud-style device-flow login, RBAC-gated projects",
   "homepage": "https://github.com/Nixie-Tech-LLC/mimir-cli",
   "license": "MIT",
-  "architecture": { "64bit": { "url": "https://github.com/Nixie-Tech-LLC/mimir-cli/releases/download/v0.2.2/mimir_0.2.2_windows_amd64.zip", "hash": "024ce00d22e07aef99f91053746f9f42884aece85cd124dd4bc8b1058fe97b94", "bin": "mimir.exe" } },
+  "architecture": { "64bit": { "url": "https://github.com/Nixie-Tech-LLC/mimir-cli/releases/download/v0.2.3/mimir_0.2.3_windows_amd64.zip", "hash": "6f7a91860069dbe732cc43b7269f4856fd1bebf03f12780d82e1c1f942ee4ceb", "bin": "mimir.exe" } },
   "checkver": "github",
   "autoupdate": { "architecture": { "64bit": { "url": "https://github.com/Nixie-Tech-LLC/mimir-cli/releases/download/v$version/mimir_$version_windows_amd64.zip" } } }
 }
